@@ -1,1 +1,1 @@
-# JAVA02 : 개인학습용
+# STUDY : java 02
