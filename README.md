@@ -1,1 +1,1 @@
-# JAVA02 : personal study code
+# JAVA02 : 개인학습용
